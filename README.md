@@ -1,6 +1,6 @@
-<div>
+
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=breach-forum&show_icons=true&theme=radical)
-</div>
+
 
 
 <div>
